@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Köppl"
+  given-names: "Dominik"
+  orcid: "http://orcid.org/0000-0002-8721-4444"
+title: "Matrix Multiplication Biclique Compression"
+url: "https://github.com/koeppl/matrixbiclique"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Francisco"
+    given-names: "Alexandre"
+  - family-names: "Gagie"
+    given-names: "Travis"
+  - family-names: "Köppl"
+    given-names: "Dominik"
+    orcid: "http://orcid.org/0000-0002-8721-4444"
+  - family-names: "Ladra"
+    given-names: "Susana"
+  - family-names: "Navarro"
+    given-names: "Gonzalo"
+  doi: 10.1007/s42979-022-01084-2
+  journal: "SN COMPUT. SCI."
+  start: 1  # First page number
+  end: 8 # Last page number
+  title: "Graph Compression for Adjacency-Matrix Multiplication"
+  year: 2022
+  issue: 193
+  volume: 3
